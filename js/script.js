@@ -49,7 +49,7 @@ setTimeout(function() {
     console.log('Hai indovinato ' + winNumbers.length + ' numeri.');
   }
   
-}, 3000);
+}, 30000);
 
 // Funzioni
 function randomNumbers(max) {
